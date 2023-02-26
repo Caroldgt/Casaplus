@@ -55,6 +55,7 @@ body {
     padding: 1em;
     display: block;
     margin-bottom: 1em;
+    color: var(--branco-primaria);
 
     font-weight: 400;
 }
